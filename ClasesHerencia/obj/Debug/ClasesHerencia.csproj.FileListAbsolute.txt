@@ -6,3 +6,11 @@ F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHere
 F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.pdb
 F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
 F:\Docencia\2023\ClasesSabado\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb
+D:\SEMESTRE 1-2023\SIS2420\Ejercicio1\Ejemplo2\ClaseYHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe.config
+D:\SEMESTRE 1-2023\SIS2420\Ejercicio1\Ejemplo2\ClaseYHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe
+D:\SEMESTRE 1-2023\SIS2420\Ejercicio1\Ejemplo2\ClaseYHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.pdb
+D:\SEMESTRE 1-2023\SIS2420\Ejercicio1\Ejemplo2\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.AssemblyReference.cache
+D:\SEMESTRE 1-2023\SIS2420\Ejercicio1\Ejemplo2\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTRE 1-2023\SIS2420\Ejercicio1\Ejemplo2\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
+D:\SEMESTRE 1-2023\SIS2420\Ejercicio1\Ejemplo2\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
+D:\SEMESTRE 1-2023\SIS2420\Ejercicio1\Ejemplo2\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb

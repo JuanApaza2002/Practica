@@ -81,7 +81,20 @@ namespace ClasesHerencia
                 Nombre = "pepe",
                 Sueldo = 54
             });
-
+            listaDocentes.Add(new Docente()
+            {
+                Cuenta = "Melany",
+                Password = "12537",
+                Nombre = "melany",
+                Sueldo = 5446
+            });
+            listaDocentes.Add(new Docente()
+            {
+                Cuenta = "Sarah",
+                Password = "1244577",
+                Nombre = "sarah",
+                Sueldo = 1254
+            });
 
             MostrarLista(listaDocentes);
 
